@@ -1,0 +1,4 @@
+{"_id":{"$oid":"60c0d71a978f2290d1ccaa2c"},"id":1,"price":"20.00","desc":"正宗牛肉汤不添加色素","title":"湖南牛肉汤","thumb":"/upload/foods/food1.jpg","tag":"名店","teg":"火爆"}
+{"_id":{"$oid":"60c0d71a978f2290d1ccaa2f"},"id":2,"price":"35.00","desc":"牛肉拉面真不错","title":"兰州拉面","thumb":"/upload/foods/food2.jpg","tag":"小店","teg":"人多"}
+{"_id":{"$oid":"60c0d71a978f2290d1ccaa32"},"id":3,"price":"15.00","desc":"地三鲜里都有啥","title":"江西家常菜","thumb":"/upload/foods/food3.jpg","tag":"人少","teg":"环境好"}
+{"_id":{"$oid":"60c0d71a978f2290d1ccaa35"},"id":4,"price":"20.00","desc":"新疆大白菜吃了还要吃","title":"新疆手撕羊肉馆","thumb":"/upload/foods/food4.jpg","tag":"名店","teg":"火爆"}
